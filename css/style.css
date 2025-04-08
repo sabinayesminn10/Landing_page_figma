@@ -1,0 +1,87 @@
+.heding-one {
+  color: #eef7ff;
+}
+
+.heding-two {
+  color: #a4acb3;
+  list-style: none;
+  
+}
+.btn-secondary {
+  background-color: #dd843c77;
+  border-radius: 17px;
+}
+
+.card-img-circle {
+  border-radius: 17px;
+}
+
+.custom-card {
+  width: 700px;
+  /* Set the desired width */
+  height: 230px;
+  /* Set the desired height */
+  margin: 20px auto;
+  /* Center the card horizontally with auto margins */
+}
+
+.position-center {
+  margin-left: 5rem;
+
+}
+
+.center-img {
+  margin-right: 6rem;
+
+}
+.img-size {
+  width: 100px;
+  margin: 20px 20px 0;
+}
+.img-size-two {
+  width: 75px;
+  margin: 20px 20px 0;
+
+}
+
+.custom-style {
+  margin-right: 10px;
+}
+
+.card-one {
+  background-color: #423f46;
+  width: 300px;
+
+
+}
+
+.card-two {
+  background-color: #493c56;
+  width: 300px;
+
+}
+
+.card-three {
+  background-color: #423f46;
+  width: 300px;
+
+}
+
+.custom-card-desing {
+  margin-right: 8rem;
+
+}
+
+.btn-circle {
+  width: 150px;
+  /* Set the desired width */
+  height: 50px;
+  /* Set the desired height */
+  padding: 10px;
+  /* Adjust padding if necessary */
+  border-radius: 25px;
+  background-color: #ed9e5d;
+}
+.no-underline {
+  text-decoration: none;
+}
